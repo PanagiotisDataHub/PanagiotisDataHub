@@ -13,9 +13,7 @@ Here you’ll find some of my personal and portfolio projects where I experiment
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Engineering-blue?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Server-red?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://skillicons.dev/icons?i=sql,python,powerbi,excel,github,vscode" />
 </p>
 
 *“Turning messy CSVs into data symphonies, one query at a time.”*
