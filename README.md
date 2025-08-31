@@ -6,11 +6,11 @@ I work with data, building projects that bring structure, clarity, and insight.
 For me, data is not just about code – it’s about creating something complete and meaningful.  
 <br><br>
 Just like music, working with data has its own rhythm:  
-structure • flow • harmony
+<b>structure • flow • harmony</b>
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA%20&%20MUSIC-WHERE%20STRUCTURE%20MEETS%20FLOW-purple?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA%20&%20MUSIC-WHERE%20STRUCTURE%20MEETS%20FLOW-301934?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
