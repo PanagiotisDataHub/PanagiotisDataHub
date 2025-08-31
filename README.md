@@ -1,4 +1,4 @@
-# Hi, I'm Panos Chris 👋
+# Hi, I'm Panagiotis Christias 👋
 
 I work with data, building projects that bring structure, clarity, and insight out of raw information.  
 For me, data projects are not just about code or queries – they’re about creating something complete and meaningful.  
