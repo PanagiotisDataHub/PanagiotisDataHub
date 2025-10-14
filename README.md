@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Panagiotis Christias 👋</h1>
+<h1 align="center">Hello there, I'm Panagiotis Christias </h1>
 
 <p align="center">
 I work with data, building projects that bring structure, clarity, and insight.  
